@@ -1,18 +1,11 @@
 # microdallecr
 
-TODO: Write a description here
+A rewritten version of [MicroDalle](https://github.com/Blizarre/microdalle.git).
 
-## Installation
+## MicroDalle description:
+This project is a web server that creates an image based on a user-input prompt. It is using DallE 3 (you will need an OpenAI API account). It was mostly written using ChatGPT just to see how far it would go (even this Readme!).
 
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+The most important part is [OpanAI](https://github.com/DmarshalTU/openai.git) shard library that written in crystal.
 
 ## Contributing
 
