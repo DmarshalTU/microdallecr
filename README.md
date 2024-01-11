@@ -7,6 +7,7 @@ This project is a web server that creates an image based on a user-input prompt.
 
 The most important part is [OpanAI](https://github.com/DmarshalTU/openai.git) shard library that written in crystal.
 
+![iamge](./image1.png)
 ## Contributing
 
 1. Fork it (<https://github.com/dmarshaltu/microdallecr/fork>)
