@@ -1,0 +1,17 @@
+name: microdallecr
+version: 0.1.0
+
+authors:
+  - Denis Tu <dmarshaltu@gmail.com>
+
+targets:
+  microdallecr:
+    main: src/microdallecr.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+crystal: '>= 1.11.0'
+
+license: MIT
